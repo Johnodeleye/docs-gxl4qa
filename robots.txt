@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-w4x671.mdaiacademy.ai/sitemap.xml
